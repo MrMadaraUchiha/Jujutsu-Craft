@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:blazing_courage"
+    },
+    "title": {
+      "translate": "advancements.battle_ogi_zenin.title"
+    },
+    "description": {
+      "translate": "advancements.battle_ogi_zenin.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_ogi_zenin": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_mei_mei"
+}

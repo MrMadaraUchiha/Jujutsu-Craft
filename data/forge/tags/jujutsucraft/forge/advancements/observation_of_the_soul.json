@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "title": {
+      "translate": "advancements.observation_of_the_soul.title"
+    },
+    "description": {
+      "translate": "advancements.observation_of_the_soul.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "observation_of_the_soul": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:soul_sand"
+            ],
+            "count": {
+              "min": 64,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:advancement_insect"
+}

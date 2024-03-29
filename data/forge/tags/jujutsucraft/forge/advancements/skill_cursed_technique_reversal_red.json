@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone"
+    },
+    "title": {
+      "translate": "advancements.skill_cursed_technique_reversal_red.title"
+    },
+    "description": {
+      "translate": "advancements.skill_cursed_technique_reversal_red.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_cursed_technique_reversal_red": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_cursed_technique_lapse_blue"
+}

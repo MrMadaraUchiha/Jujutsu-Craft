@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:gray_wool"
+    },
+    "title": {
+      "translate": "advancements.battle_cursed_spirit_grade_special_8.title"
+    },
+    "description": {
+      "translate": "advancements.battle_cursed_spirit_grade_special_8.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_cursed_spirit_grade_special_8": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_cursed_spirit_grade_special_7"
+}

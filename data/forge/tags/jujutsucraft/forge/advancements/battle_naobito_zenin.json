@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:glass_bottle"
+    },
+    "title": {
+      "translate": "advancements.battle_naobito_zenin.title"
+    },
+    "description": {
+      "translate": "advancements.battle_naobito_zenin.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_naobito_zenin": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_naoya_zenin"
+}

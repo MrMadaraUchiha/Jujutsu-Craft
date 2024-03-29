@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "title": {
+      "translate": "advancements.battle_sukuna_3.title"
+    },
+    "description": {
+      "translate": "advancements.battle_sukuna_3.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_sukuna_3": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_sukuna_2"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:sword_okkotsu_yuta"
+    },
+    "title": {
+      "translate": "advancements.skill_curseis_lifted.title"
+    },
+    "description": {
+      "translate": "advancements.skill_curseis_lifted.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_curseis_lifted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_rika_control"
+}

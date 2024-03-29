@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cobblestone"
+    },
+    "title": {
+      "translate": "advancements.skill_collapse.title"
+    },
+    "description": {
+      "translate": "advancements.skill_collapse.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_collapse": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_nanami"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:garuda_item"
+    },
+    "title": {
+      "translate": "advancements.skill_garuda.title"
+    },
+    "description": {
+      "translate": "advancements.skill_garuda.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_garuda": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_tsukumo"
+}

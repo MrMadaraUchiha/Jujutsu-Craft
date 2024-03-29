@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:black_stained_glass_pane"
+    },
+    "title": {
+      "translate": "advancements.battle_naoya_zenin_cursed_spirit.title"
+    },
+    "description": {
+      "translate": "advancements.battle_naoya_zenin_cursed_spirit.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_naoya_zenin_cursed_spirit": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_naoya_zenin"
+}

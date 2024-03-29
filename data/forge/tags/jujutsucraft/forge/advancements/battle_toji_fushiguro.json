@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:item_master_physical_gifted"
+    },
+    "title": {
+      "translate": "advancements.battle_toji_fushiguro.title"
+    },
+    "description": {
+      "translate": "advancements.battle_toji_fushiguro.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_toji_fushiguro": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_hajime_kashimo"
+}

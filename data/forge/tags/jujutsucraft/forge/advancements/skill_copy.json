@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:sword_okkotsu_yuta"
+    },
+    "title": {
+      "translate": "advancements.skill_copy.title"
+    },
+    "description": {
+      "translate": "advancements.skill_copy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_copy": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:jujutsu_craft_skills"
+}

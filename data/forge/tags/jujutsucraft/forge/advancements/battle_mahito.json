@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:soul_sand"
+    },
+    "title": {
+      "translate": "advancements.battle_mahito.title"
+    },
+    "description": {
+      "translate": "advancements.battle_mahito.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_mahito": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_jogo"
+}

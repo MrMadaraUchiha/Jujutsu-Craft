@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:itadori_yuji_paper"
+    },
+    "title": {
+      "translate": "advancements.battle_kenjaku.title"
+    },
+    "description": {
+      "translate": "advancements.battle_kenjaku.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_kenjaku": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_toji_fushiguro"
+}

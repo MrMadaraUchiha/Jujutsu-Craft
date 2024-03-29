@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:domain_ice"
+    },
+    "title": {
+      "translate": "advancements.skill_frost_calm.title"
+    },
+    "description": {
+      "translate": "advancements.skill_frost_calm.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_frost_calm": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_uraume"
+}

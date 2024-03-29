@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ink_sac"
+    },
+    "title": {
+      "translate": "advancements.battle_megumi_fushiguro.title"
+    },
+    "description": {
+      "translate": "advancements.battle_megumi_fushiguro.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_megumi_fushiguro": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_yuji_itadori"
+}

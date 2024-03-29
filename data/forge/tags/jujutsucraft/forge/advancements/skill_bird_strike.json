@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ink_sac"
+    },
+    "title": {
+      "translate": "advancements.skill_bird_strike.title"
+    },
+    "description": {
+      "translate": "advancements.skill_bird_strike.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_bird_strike": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_black_bird_manipulation"
+}

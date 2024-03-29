@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_sapling"
+    },
+    "title": {
+      "translate": "advancements.battle_hanami.title"
+    },
+    "description": {
+      "translate": "advancements.battle_hanami.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_hanami": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_advancements"
+}

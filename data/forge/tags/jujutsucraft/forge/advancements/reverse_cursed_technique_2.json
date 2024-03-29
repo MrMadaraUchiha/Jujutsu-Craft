@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:item_master_reverse_cursed_technique"
+    },
+    "title": {
+      "translate": "advancements.reverse_cursed_technique_2.title"
+    },
+    "description": {
+      "translate": "advancements.reverse_cursed_technique_2.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "reverse_cursed_technique_2": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:reverse_cursed_technique_1"
+}

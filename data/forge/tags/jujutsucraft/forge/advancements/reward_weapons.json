@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "reward_weapons": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10,
+    "loot": [
+      "jujutsucraft:entities/stevenson_screen"
+    ]
+  },
+  "parent": "jujutsucraft:start_jujutsu_craft"
+}

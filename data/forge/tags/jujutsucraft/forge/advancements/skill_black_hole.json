@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:jujutsu_barrier"
+    },
+    "title": {
+      "translate": "advancements.skill_black_hole.title"
+    },
+    "description": {
+      "translate": "advancements.skill_black_hole.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "skill_black_hole": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_garuda_soccer"
+}

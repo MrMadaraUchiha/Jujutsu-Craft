@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:item_master_physical_gifted"
+    },
+    "title": {
+      "translate": "advancements.completely_physically_gifted.title"
+    },
+    "description": {
+      "translate": "advancements.completely_physically_gifted.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "completely_physically_gifted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:black_flash"
+}

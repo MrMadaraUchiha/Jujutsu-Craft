@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:nyoi_staff"
+    },
+    "title": {
+      "translate": "advancements.battle_hajime_kashimo.title"
+    },
+    "description": {
+      "translate": "advancements.battle_hajime_kashimo.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_hajime_kashimo": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_ryu_ishigori"
+}
