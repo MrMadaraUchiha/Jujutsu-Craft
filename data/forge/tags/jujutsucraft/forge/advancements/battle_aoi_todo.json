@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:pendant_todo_aoi"
+    },
+    "title": {
+      "translate": "advancements.battle_aoi_todo.title"
+    },
+    "description": {
+      "translate": "advancements.battle_aoi_todo.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_aoi_todo": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_yuta_okkotsu"
+}
