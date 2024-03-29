@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "jujutsucraft:house_zenin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 256,
+    "separation": 80,
+    "salt": 1514445633
+  }
+}
