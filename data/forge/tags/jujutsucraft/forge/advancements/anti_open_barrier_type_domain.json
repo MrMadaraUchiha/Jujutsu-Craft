@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:barrier"
+    },
+    "title": {
+      "translate": "advancements.anti_open_barrier_type_domain.title"
+    },
+    "description": {
+      "translate": "advancements.anti_open_barrier_type_domain.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "anti_open_barrier_type_domain": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:mastery_open_barrier_type_domain"
+}

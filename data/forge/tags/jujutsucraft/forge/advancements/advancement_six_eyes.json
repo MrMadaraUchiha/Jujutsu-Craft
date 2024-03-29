@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:item_master_six_eyes"
+    },
+    "title": {
+      "translate": "advancements.advancement_six_eyes.title"
+    },
+    "description": {
+      "translate": "advancements.advancement_six_eyes.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "advancement_six_eyes": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:completely_physically_gifted"
+}

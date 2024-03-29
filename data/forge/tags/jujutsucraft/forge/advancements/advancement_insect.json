@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:item_insect"
+    },
+    "title": {
+      "translate": "advancements.advancement_insect.title"
+    },
+    "description": {
+      "translate": "advancements.advancement_insect.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "advancement_insect": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:start_jujutsu_craft"
+}
