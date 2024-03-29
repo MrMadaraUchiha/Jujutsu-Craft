@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "jujutsucraft:blindfold_bandage_helmet",
+    "count": 1
+  }
+}

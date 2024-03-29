@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jujutsucraft:cursed_technique_starter"
+    }
+  ],
+  "result": {
+    "item": "jujutsucraft:cursed_technique_starter",
+    "count": 1
+  }
+}
