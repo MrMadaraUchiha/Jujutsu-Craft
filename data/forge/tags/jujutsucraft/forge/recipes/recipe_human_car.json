@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "jujutsucraft:human_stock"
+    }
+  },
+  "result": {
+    "item": "jujutsucraft:human_stock_car",
+    "count": 1
+  }
+}

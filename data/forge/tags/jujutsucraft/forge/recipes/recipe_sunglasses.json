@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:stained_glass"
+    }
+  },
+  "result": {
+    "item": "jujutsucraft:sunglasses_helmet",
+    "count": 1
+  }
+}
