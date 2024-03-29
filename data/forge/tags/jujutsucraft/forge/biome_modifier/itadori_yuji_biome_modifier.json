@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "jujutsucraft:itadori_yuji",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}
