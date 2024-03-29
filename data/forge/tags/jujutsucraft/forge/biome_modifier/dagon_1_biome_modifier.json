@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "jujutsucraft:dagon_1",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

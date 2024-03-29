@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "jujutsucraft:cursed_spirit_grade_32",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

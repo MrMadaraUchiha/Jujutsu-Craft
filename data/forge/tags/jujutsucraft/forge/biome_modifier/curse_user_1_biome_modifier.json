@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "jujutsucraft:curse_user_1",
+    "weight": 3,
+    "minCount": 6,
+    "maxCount": 6
+  }
+}
