@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "pillager",
+    "villager",
+    "vindicator",
+    "witch",
+    "zombie",
+    "zombie_villager"
+  ]
+}
