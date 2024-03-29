@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bone"
+    },
+    "title": {
+      "translate": "advancements.battle_sukuna.title"
+    },
+    "description": {
+      "translate": "advancements.battle_sukuna.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_sukuna": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_uraume"
+}

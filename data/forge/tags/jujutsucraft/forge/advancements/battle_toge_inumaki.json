@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:yellow_dye"
+    },
+    "title": {
+      "translate": "advancements.battle_toge_inumaki.title"
+    },
+    "description": {
+      "translate": "advancements.battle_toge_inumaki.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_toge_inumaki": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_maki_zenin"
+}

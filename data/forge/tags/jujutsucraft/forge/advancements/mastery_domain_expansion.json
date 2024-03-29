@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:item_master_domain_expansion"
+    },
+    "title": {
+      "translate": "advancements.mastery_domain_expansion.title"
+    },
+    "description": {
+      "translate": "advancements.mastery_domain_expansion.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mastery_domain_expansion": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:mastery_simple_domain"
+}

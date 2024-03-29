@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone"
+    },
+    "title": {
+      "translate": "advancements.battle_suguru_geto.title"
+    },
+    "description": {
+      "translate": "advancements.battle_suguru_geto.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_suguru_geto": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_naobito_zenin"
+}

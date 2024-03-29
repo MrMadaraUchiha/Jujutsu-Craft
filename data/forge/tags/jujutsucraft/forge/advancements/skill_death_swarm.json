@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cod"
+    },
+    "title": {
+      "translate": "advancements.skill_death_swarm.title"
+    },
+    "description": {
+      "translate": "advancements.skill_death_swarm.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_death_swarm": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_bathynomus_giganteus"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:bullet_flame"
+    },
+    "title": {
+      "translate": "advancements.skill_disaster_flames.title"
+    },
+    "description": {
+      "translate": "advancements.skill_disaster_flames.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_disaster_flames": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_jogo"
+}

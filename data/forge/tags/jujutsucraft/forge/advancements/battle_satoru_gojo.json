@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "title": {
+      "translate": "advancements.battle_satoru_gojo.title"
+    },
+    "description": {
+      "translate": "advancements.battle_satoru_gojo.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_satoru_gojo": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_naobito_zenin"
+}

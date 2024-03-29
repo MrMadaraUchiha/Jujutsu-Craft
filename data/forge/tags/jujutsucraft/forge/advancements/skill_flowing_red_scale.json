@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_dye"
+    },
+    "title": {
+      "translate": "advancements.skill_flowing_red_scale.title"
+    },
+    "description": {
+      "translate": "advancements.skill_flowing_red_scale.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_flowing_red_scale": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_blood_manipulation"
+}

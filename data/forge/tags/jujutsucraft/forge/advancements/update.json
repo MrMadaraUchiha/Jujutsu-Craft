@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "update": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:start_jujutsu_craft"
+}

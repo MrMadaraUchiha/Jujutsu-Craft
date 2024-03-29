@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bamboo"
+    },
+    "title": {
+      "translate": "advancements.battle_panda.title"
+    },
+    "description": {
+      "translate": "advancements.battle_panda.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_panda": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_megumi_fushiguro"
+}

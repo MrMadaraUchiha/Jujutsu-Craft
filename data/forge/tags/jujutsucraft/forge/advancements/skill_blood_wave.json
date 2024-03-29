@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_dye"
+    },
+    "title": {
+      "translate": "advancements.skill_blood_wave.title"
+    },
+    "description": {
+      "translate": "advancements.skill_blood_wave.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_blood_wave": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_supernova"
+}

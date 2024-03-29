@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bowl"
+    },
+    "title": {
+      "translate": "advancements.battle_ryu_ishigori.title"
+    },
+    "description": {
+      "translate": "advancements.battle_ryu_ishigori.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_ryu_ishigori": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_hiromi_higuruma"
+}

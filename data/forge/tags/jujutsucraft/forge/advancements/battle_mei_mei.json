@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:mei_mei_axe"
+    },
+    "title": {
+      "translate": "advancements.battle_mei_mei.title"
+    },
+    "description": {
+      "translate": "advancements.battle_mei_mei.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_mei_mei": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_kento_nanami"
+}

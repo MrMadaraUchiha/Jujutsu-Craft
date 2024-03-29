@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone"
+    },
+    "title": {
+      "translate": "advancements.battle_kechizu.title"
+    },
+    "description": {
+      "translate": "advancements.battle_kechizu.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_kechizu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_advancements"
+}

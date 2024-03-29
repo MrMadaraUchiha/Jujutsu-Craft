@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:item_master_simple_domain"
+    },
+    "title": {
+      "translate": "advancements.mastery_falling_blossom_emotion.title"
+    },
+    "description": {
+      "translate": "advancements.mastery_falling_blossom_emotion.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mastery_falling_blossom_emotion": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:mastery_simple_domain"
+}

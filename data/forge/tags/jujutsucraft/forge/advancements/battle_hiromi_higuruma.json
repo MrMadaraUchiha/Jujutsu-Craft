@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:gavel"
+    },
+    "title": {
+      "translate": "advancements.battle_hiromi_higuruma.title"
+    },
+    "description": {
+      "translate": "advancements.battle_hiromi_higuruma.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_hiromi_higuruma": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_choso"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_dye"
+    },
+    "title": {
+      "translate": "advancements.battle_yuta_okkotsu.title"
+    },
+    "description": {
+      "translate": "advancements.battle_yuta_okkotsu.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_yuta_okkotsu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_toge_inumaki"
+}

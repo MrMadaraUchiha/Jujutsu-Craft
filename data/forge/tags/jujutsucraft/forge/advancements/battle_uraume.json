@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:domain_ice"
+    },
+    "title": {
+      "translate": "advancements.battle_uraume.title"
+    },
+    "description": {
+      "translate": "advancements.battle_uraume.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_uraume": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_mahito"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:obsidian"
+    },
+    "title": {
+      "translate": "advancements.black_flash.title"
+    },
+    "description": {
+      "translate": "advancements.black_flash.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "black_flash": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:observation_of_the_soul"
+}

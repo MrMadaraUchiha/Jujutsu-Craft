@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stone_sword"
+    },
+    "title": {
+      "translate": "advancements.fame_3.title"
+    },
+    "description": {
+      "translate": "advancements.fame_3.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fame_3": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "jujutsucraft:fame_4"
+}

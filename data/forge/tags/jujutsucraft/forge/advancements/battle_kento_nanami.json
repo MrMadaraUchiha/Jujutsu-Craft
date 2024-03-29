@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:weapon_nanami"
+    },
+    "title": {
+      "translate": "advancements.battle_kento_nanami.title"
+    },
+    "description": {
+      "translate": "advancements.battle_kento_nanami.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_kento_nanami": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_aoi_todo"
+}

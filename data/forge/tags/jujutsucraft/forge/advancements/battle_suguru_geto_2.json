@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone_block"
+    },
+    "title": {
+      "translate": "advancements.battle_suguru_geto_2.title"
+    },
+    "description": {
+      "translate": "advancements.battle_suguru_geto_2.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_suguru_geto_2": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_suguru_geto"
+}

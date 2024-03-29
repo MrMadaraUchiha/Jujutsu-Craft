@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cod"
+    },
+    "title": {
+      "translate": "advancements.battle_dagon.title"
+    },
+    "description": {
+      "translate": "advancements.battle_dagon.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "battle_dagon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:battle_hanami"
+}
