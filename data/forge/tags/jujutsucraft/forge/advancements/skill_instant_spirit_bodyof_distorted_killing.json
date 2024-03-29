@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:armor_instant_spirit_bodyof_distorted_killing_chestplate"
+    },
+    "title": {
+      "translate": "advancements.skill_instant_spirit_bodyof_distorted_killing.title"
+    },
+    "description": {
+      "translate": "advancements.skill_instant_spirit_bodyof_distorted_killing.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_instant_spirit_bodyof_distorted_killing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_mahito"
+}

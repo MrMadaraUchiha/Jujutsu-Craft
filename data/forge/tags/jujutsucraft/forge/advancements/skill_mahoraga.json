@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:mahoraga_wheel_helmet"
+    },
+    "title": {
+      "translate": "advancements.skill_mahoraga.title"
+    },
+    "description": {
+      "translate": "advancements.skill_mahoraga.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_mahoraga": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_tiger_funeral"
+}

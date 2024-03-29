@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:human_stock"
+    },
+    "title": {
+      "translate": "advancements.skill_soul_multiplicity.title"
+    },
+    "description": {
+      "translate": "advancements.skill_soul_multiplicity.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_soul_multiplicity": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_mahito"
+}

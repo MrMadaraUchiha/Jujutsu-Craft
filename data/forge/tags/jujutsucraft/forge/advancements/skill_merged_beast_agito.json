@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:feather"
+    },
+    "title": {
+      "translate": "advancements.skill_merged_beast_agito.title"
+    },
+    "description": {
+      "translate": "advancements.skill_merged_beast_agito.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "skill_merged_beast_agito": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "parent": "jujutsucraft:skill_nue"
+}

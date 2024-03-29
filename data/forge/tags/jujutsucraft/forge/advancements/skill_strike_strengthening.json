@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "title": {
+      "translate": "advancements.skill_strike_strengthening.title"
+    },
+    "description": {
+      "translate": "advancements.skill_strike_strengthening.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_strike_strengthening": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_high_speed"
+}

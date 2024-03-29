@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:purple_dye"
+    },
+    "title": {
+      "translate": "advancements.skill_hollow_technique_purple.title"
+    },
+    "description": {
+      "translate": "advancements.skill_hollow_technique_purple.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_hollow_technique_purple": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_cursed_technique_reversal_red"
+}

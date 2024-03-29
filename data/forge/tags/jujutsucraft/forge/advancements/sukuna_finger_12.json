@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:sukuna_finger"
+    },
+    "title": {
+      "translate": "advancements.sukuna_finger_12.title"
+    },
+    "description": {
+      "translate": "advancements.sukuna_finger_12.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sukuna_finger_12": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:sukuna_finger_11"
+}
