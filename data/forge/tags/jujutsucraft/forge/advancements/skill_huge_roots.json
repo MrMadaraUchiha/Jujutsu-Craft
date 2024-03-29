@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_log"
+    },
+    "title": {
+      "translate": "advancements.skill_huge_roots.title"
+    },
+    "description": {
+      "translate": "advancements.skill_huge_roots.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_huge_roots": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_hanami"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:feather"
+    },
+    "title": {
+      "translate": "advancements.skill_nue.title"
+    },
+    "description": {
+      "translate": "advancements.skill_nue.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_nue": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_divine_dogs"
+}

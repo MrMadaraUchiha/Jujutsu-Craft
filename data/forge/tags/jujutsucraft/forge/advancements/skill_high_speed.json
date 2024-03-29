@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "title": {
+      "translate": "advancements.skill_high_speed.title"
+    },
+    "description": {
+      "translate": "advancements.skill_high_speed.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_high_speed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_cursed_technique_lapse_blue"
+}

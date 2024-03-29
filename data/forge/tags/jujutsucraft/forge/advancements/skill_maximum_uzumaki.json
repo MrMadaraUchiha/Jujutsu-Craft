@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jujutsucraft:cursed_spirit_ball"
+    },
+    "title": {
+      "translate": "advancements.skill_maximum_uzumaki.title"
+    },
+    "description": {
+      "translate": "advancements.skill_maximum_uzumaki.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_maximum_uzumaki": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_geto"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:glass_pane"
+    },
+    "title": {
+      "translate": "advancements.skill_naoya.title"
+    },
+    "description": {
+      "translate": "advancements.skill_naoya.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_naoya": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:jujutsu_craft_skills"
+}

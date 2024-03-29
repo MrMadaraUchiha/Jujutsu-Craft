@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:apple"
+    },
+    "title": {
+      "translate": "advancements.skill_great_serpent.title"
+    },
+    "description": {
+      "translate": "advancements.skill_great_serpent.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_great_serpent": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_toad"
+}

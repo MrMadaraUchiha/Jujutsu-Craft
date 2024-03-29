@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:poppy"
+    },
+    "title": {
+      "translate": "advancements.skill_hanami.title"
+    },
+    "description": {
+      "translate": "advancements.skill_hanami.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_hanami": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:jujutsu_craft_skills"
+}

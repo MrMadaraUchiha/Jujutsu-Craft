@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dirt"
+    },
+    "title": {
+      "translate": "advancements.skill_tiger_funeral.title"
+    },
+    "description": {
+      "translate": "advancements.skill_tiger_funeral.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skill_tiger_funeral": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jujutsucraft:skill_piercing_ox"
+}
